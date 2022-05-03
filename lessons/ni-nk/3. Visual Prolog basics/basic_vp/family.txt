@@ -1,0 +1,9 @@
+person("Matt", male).
+person("Erick", male).
+person("Dave", male).
+person("Ann", female).
+
+parent("Matt", "Erick").
+parent("Erick", "Dave").
+parent("Erick", "Ann").
+
